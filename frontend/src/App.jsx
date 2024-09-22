@@ -10,6 +10,7 @@ function App() {
       <div className="all_friends_icon"></div>
       <i className="all_friends_icon"></i>
       <LiveVideo color="red"/>
+     
     </div>
   );
 }
